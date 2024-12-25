@@ -28,7 +28,7 @@ Lottery DApp is a blockchain-powered decentralized application designed to offer
 
 ## How to Use
 1. **Connect Wallet:** Use MetaMask or another Ethereum-compatible wallet to connect to the application.  
-2. **Enter Lottery:** Click the "Enter Lottery" button to participate by paying the entry fee (1 ETH).  
+2. **Enter Lottery:** Click the "Enter Lottery" button to participate by paying the entry fee (1 GAS).  
 3. **Become Manager:** Use the "Become Manager" option to manage the lottery contract if authorized.  
 4. **Pick Winner:** The manager can pick a winner at the end of the lottery cycle, ensuring a fair and randomized selection.  
 5. **View Updates:** Check the list of current participants and the most recent winner.
