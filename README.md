@@ -15,12 +15,11 @@ Lottery DApp is a blockchain-powered decentralized application designed to offer
 
 ## Contract Details
 - **Contract Address:** 0xA8C1B18e1ea8C755f196eD537080d2aeE6e72d8F 
-- **Network:** Neo X Testnet T4  
-
+- **Network:** Neo X MainNet
 ---
 
 ## Deployment
-- **Contract Address:** [View on Block Explorer](https://xt4scan.ngd.network/address/0xA8C1B18e1ea8C755f196eD537080d2aeE6e72d8F)  
+- **Contract Address:** [View on Block Explorer](https://xexplorer.neo.org/address/0xA8C1B18e1ea8C755f196eD537080d2aeE6e72d8F)  
 - **Entry Fee:** 1 GAS 
 - **Coin Used:** GAS  
 
